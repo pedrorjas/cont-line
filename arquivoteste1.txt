@@ -1,0 +1,21 @@
+teste
+aqui
+iremos 
+verificar \\ teste
+
+	 // comentario
+
+/* comentario com linhas
+esse é mais complicado
+vamos ver se acerto*/
+
+
+   /* testes */
+//teste
+
+ //
+alteração  //
+//
+teste
+
+teste1
